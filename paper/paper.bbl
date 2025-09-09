@@ -1,0 +1,163 @@
+\begin{thebibliography}{31}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[swi()]{swimto}
+{F}ood delivery market size to cross {R}s 2 lakh crore by 2030: {B}ain-{S}wiggy report --- economictimes.indiatimes.com.
+\newblock \url{https://economictimes.indiatimes.com/tech/startups/online-food-delivery-market-to-grow-18-on-year-to-rs-2-lakh-crore-by-2030-bain-report/articleshow/111452013.cms}.
+\newblock [Accessed 16-01-2025].
+
+\bibitem[Atlas(2024)]{tasteatlas}
+Taste Atlas.
+\newblock {T}hese are the 100 {B}est {C}uisines in 2025 - {T}aste{A}tlas {A}wards 24/25 --- tasteatlas.com.
+\newblock \url{https://www.tasteatlas.com/best/cuisines}, 2024.
+\newblock [Accessed 15-01-2025].
+
+\bibitem[Bossard et~al.(2014)Bossard, Guillaumin, and Van~Gool]{Bossard2014}
+Lukas Bossard, Matthieu Guillaumin, and Luc Van~Gool.
+\newblock Food-101 -- mining discriminative components with random forests.
+\newblock In \emph{Computer Vision -- ECCV 2014}, pages 446--461. Springer International Publishing, 2014.
+
+\bibitem[Chen et~al.(2017)Chen, Zhu, Zhou, Diao, and Wang]{arxiv.1705.02743}
+Xin Chen, Yu~Zhu, Hua Zhou, Liang Diao, and Dongyan Wang.
+\newblock Chinesefoodnet: A large-scale image dataset for chinese food recognition, 2017.
+
+\bibitem[Ciocca et~al.(2017)Ciocca, Napoletano, and Schettini]{Ciocca2017}
+Gianluigi Ciocca, Paolo Napoletano, and Raimondo Schettini.
+\newblock Learning cnn-based features for retrieval of food images.
+\newblock In \emph{New Trends in Image Analysis and Processing – ICIAP 2017}, page 426–434. Springer International Publishing, 2017.
+
+\bibitem[Dosovitskiy et~al.(2021)Dosovitskiy, Beyer, Kolesnikov, Weissenborn, Zhai, Unterthiner, Dehghani, Minderer, Heigold, Gelly, Uszkoreit, and Houlsby]{Dosovitskiy2021}
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby.
+\newblock An image is worth 16x16 words: Transformers for image recognition at scale.
+\newblock In \emph{9th International Conference on Learning Representations, {ICLR} 2021, Virtual Event, Austria, May 3-7, 2021}. OpenReview.net, 2021.
+\newblock URL \url{https://openreview.net/forum?id=YicbFdNTTy}.
+
+\bibitem[Freitas et~al.(2020)Freitas, Cordeiro, and Macario]{arxiv.2012.03087}
+Charles Freitas, Filipe Cordeiro, and Valmir Macario.
+\newblock Myfood dataset, 2020.
+
+\bibitem[Gao et~al.(2019)Gao, Tan, Ma, Wang, and Tang]{arxiv.1903.07437}
+Junyi Gao, Weihao Tan, Liantao Ma, Yasha Wang, and Wen Tang.
+\newblock Musefood: Multi-sensor-based food volume estimation on smartphones, 2019.
+
+\bibitem[He et~al.(2016)He, Zhang, Ren, and Sun]{Kaiming2016}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In \emph{2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, pages 770--778, 2016.
+
+\bibitem[Jalal et~al.(2019)Jalal, Wang, Jefferson, Zheng, Nsoesie, and Betke]{Jalal2019}
+Mona Jalal, Kaihong Wang, Sankara Jefferson, Yi~Zheng, Elaine~O. Nsoesie, and Margrit Betke.
+\newblock Scraping social media photos posted in kenya and elsewhere to detect and analyze food types.
+\newblock In \emph{Proceedings of the 5th International Workshop on Multimedia Assisted Dietary Management}, MM ’19, page 50–59. ACM, October 2019.
+
+\bibitem[Kaur et~al.(2019)Kaur, Sikka, Wang, Belongie, and Divakaran]{arxiv.1907.06167}
+Parneet Kaur, Karan Sikka, Weijun Wang, Serge Belongie, and Ajay Divakaran.
+\newblock Foodx-251: A dataset for fine-grained food classification, 2019.
+
+\bibitem[Lee et~al.(2018)Lee, He, Zhang, and Yang]{Lee2018}
+Kuang-Huei Lee, Xiaodong He, Lei Zhang, and Linjun Yang.
+\newblock Cleannet: Transfer learning for scalable image classifier training with label noise.
+\newblock In \emph{2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition}, page 5447–5456. IEEE, June 2018.
+
+\bibitem[Liu et~al.(2016)Liu, Cao, Luo, Chen, Vokkarane, and Ma]{arxiv.1606.05675}
+Chang Liu, Yu~Cao, Yan Luo, Guanling Chen, Vinod Vokkarane, and Yunsheng Ma.
+\newblock Deepfood: Deep learning-based food image recognition for computer-aided dietary assessment, 2016.
+
+\bibitem[Liu et~al.(2025)Liu, Zuo, Wang, He, Dong, and Lu]{Liu2025}
+Detianjun Liu, Enguang Zuo, Dingding Wang, Liang He, Liujing Dong, and Xinyao Lu.
+\newblock Deep learning in food image recognition: A comprehensive review.
+\newblock \emph{Applied Sciences}, 15\penalty0 (14), 2025.
+\newblock URL \url{https://www.mdpi.com/2076-3417/15/14/7626}.
+
+\bibitem[Liu et~al.(2024)Liu, Jiao, Chen, Zhu, and Jiang]{Liu2024}
+Guoshan Liu, Yang Jiao, Jingjing Chen, Bin Zhu, and Yu-Gang Jiang.
+\newblock From canteen food to daily meals: Generalizing food recognition to more practical scenarios.
+\newblock \emph{IEEE Transactions on Multimedia}, page 1–10, 2024.
+
+\bibitem[Liu et~al.(2022)Liu, Mao, Wu, Feichtenhofer, Darrell, and Xie]{Liu2022}
+Zhuang Liu, Hanzi Mao, Chao{-}Yuan Wu, Christoph Feichtenhofer, Trevor Darrell, and Saining Xie.
+\newblock A convnet for the 2020s.
+\newblock \emph{CoRR}, abs/2201.03545, 2022.
+\newblock URL \url{https://arxiv.org/abs/2201.03545}.
+
+\bibitem[maintainers and contributors()]{torchvision}
+TorchVision maintainers and contributors.
+\newblock {TorchVision: PyTorch's Computer Vision library}.
+\newblock \url{https://github.com/pytorch/vision}.
+\newblock [Accessed 16-01-2025].
+
+\bibitem[Marin et~al.(2018)Marin, Biswas, Ofli, Hynes, Salvador, Aytar, Weber, and Torralba]{arxiv.1810.06553}
+Javier Marin, Aritro Biswas, Ferda Ofli, Nicholas Hynes, Amaia Salvador, Yusuf Aytar, Ingmar Weber, and Antonio Torralba.
+\newblock Recipe1m+: A dataset for learning cross-modal embeddings for cooking recipes and food images, 2018.
+
+\bibitem[Min et~al.(2020)Min, Liu, Wang, Luo, Wei, Wei, and Jiang]{Min2020}
+Weiqing Min, Linhu Liu, Zhiling Wang, Zhengdong Luo, Xiaoming Wei, Xiaolin Wei, and Shuqiang Jiang.
+\newblock Isia food-500: A dataset for large-scale food recognition via stacked global-local attention network.
+\newblock In \emph{Proceedings of the 28th ACM International Conference on Multimedia}, MM ’20. ACM, October 2020.
+
+\bibitem[Min et~al.(2023)Min, Wang, Liu, Luo, Kang, Wei, Wei, and Jiang]{Min2023}
+Weiqing Min, Zhiling Wang, Yuxin Liu, Mengjiang Luo, Liping Kang, Xiaoming Wei, Xiaolin Wei, and Shuqiang Jiang.
+\newblock Large scale visual food recognition.
+\newblock \emph{IEEE Transactions on Pattern Analysis and Machine Intelligence}, 45\penalty0 (8):\penalty0 9932–9949, August 2023.
+
+\bibitem[Qiu et~al.(2019)Qiu, Lo, Sun, Wang, and Lo]{Jianing2019}
+Jianing Qiu, Frank Po~Wen Lo, Yingnan Sun, Siyao Wang, and Benny Lo.
+\newblock Mining discriminative food regions for accurate food recognition.
+\newblock In \emph{30th British Machine Vision Conference 2019, {BMVC} 2019, Cardiff, UK, September 9-12, 2019}, page 158. {BMVA} Press, 2019.
+
+\bibitem[Romero-Tapiador et~al.(2024)Romero-Tapiador, Tolosana, Morales, Fierrez, Vera-Rodriguez, Espinosa-Salinas, Freixer, Carrillo~de Santa~Pau, Ramírez~de Molina, and Ortega-Garcia]{RomeroTapiador2024}
+Sergio Romero-Tapiador, Ruben Tolosana, Aythami Morales, Julian Fierrez, Ruben Vera-Rodriguez, Isabel Espinosa-Salinas, Gala Freixer, Enrique Carrillo~de Santa~Pau, Ana Ramírez~de Molina, and Javier Ortega-Garcia.
+\newblock Leveraging automatic personalised nutrition: food image recognition benchmark and dataset based on nutrition taxonomy.
+\newblock \emph{Multimedia Tools and Applications}, April 2024.
+
+\bibitem[Sahoo et~al.(2019{\natexlab{a}})Sahoo, Hao, Ke, Xiongwei, Le, Achananuparp, Lim, and Hoi]{Doyen2019}
+Doyen Sahoo, Wang Hao, Shu Ke, Wu~Xiongwei, Hung Le, Palakorn Achananuparp, Ee-Peng Lim, and Steven C.~H. Hoi.
+\newblock Foodai: Food image recognition via deep learning for smart food logging.
+\newblock In \emph{Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining}, KDD '19, page 2260–2268. Association for Computing Machinery, 2019{\natexlab{a}}.
+\newblock ISBN 9781450362016.
+
+\bibitem[Sahoo et~al.(2019{\natexlab{b}})Sahoo, Hao, Ke, Xiongwei, Le, Achananuparp, Lim, and Hoi]{Sahoo2019}
+Doyen Sahoo, Wang Hao, Shu Ke, Wu~Xiongwei, Hung Le, Palakorn Achananuparp, Ee-Peng Lim, and Steven C.~H. Hoi.
+\newblock Foodai: Food image recognition via deep learning for smart food logging.
+\newblock In \emph{Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining}, KDD ’19, page 2260–2268. ACM, July 2019{\natexlab{b}}.
+
+\bibitem[Shimoda and Yanai(2017)]{Shimoda2017}
+Wataru Shimoda and Keiji Yanai.
+\newblock Learning food image similarity for food image retrieval.
+\newblock In \emph{2017 IEEE Third International Conference on Multimedia Big Data (BigMM)}, pages 165--168, 2017.
+
+\bibitem[Tan and Le(2019)]{Tan2019}
+Mingxing Tan and Quoc Le.
+\newblock {E}fficient{N}et: Rethinking model scaling for convolutional neural networks.
+\newblock In \emph{Proceedings of the 36th International Conference on Machine Learning}, volume~97 of \emph{Proceedings of Machine Learning Research}, pages 6105--6114. PMLR, 09--15 Jun 2019.
+\newblock URL \url{https://proceedings.mlr.press/v97/tan19a.html}.
+
+\bibitem[Tan and Le(2021)]{Tan2021}
+Mingxing Tan and Quoc~V. Le.
+\newblock Efficientnetv2: Smaller models and faster training.
+\newblock In \emph{Proceedings of the 38th International Conference on Machine Learning, {ICML} 2021, 18-24 July 2021, Virtual Event}, volume 139 of \emph{Proceedings of Machine Learning Research}, pages 10096--10106. {PMLR}, 2021.
+\newblock URL \url{http://proceedings.mlr.press/v139/tan21a.html}.
+
+\bibitem[Termritthikun et~al.(2017)Termritthikun, Muneesawang, and Kanprachar]{Termritthikun2017}
+Chakkrit Termritthikun, Paisarn Muneesawang, and Surachet Kanprachar.
+\newblock Nu-innet: Thai food image recognition using convolutional neural networks on smartphone.
+\newblock \emph{Journal of Telecommunication, Electronic and Computer Engineering (JTEC)}, 9\penalty0 (2-6):\penalty0 63–67, June 2017.
+
+\bibitem[Wang et~al.(2019)Wang, Sahoo, Liu, peng Lim, and Hoi]{arxiv.1905.01273}
+Hao Wang, Doyen Sahoo, Chenghao Liu, Ee~peng Lim, and Steven C.~H. Hoi.
+\newblock Learning cross-modal embeddings with adversarial networks for cooking recipes and food images, 2019.
+
+\bibitem[Wang et~al.(2020)Wang, Sahoo, Liu, Shu, Achananuparp, peng Lim, and Hoi]{arxiv.2003.03955}
+Hao Wang, Doyen Sahoo, Chenghao Liu, Ke~Shu, Palakorn Achananuparp, Ee~peng Lim, and Steven C.~H. Hoi.
+\newblock Cross-modal food retrieval: Learning a joint embedding of food images and recipes with semantic consistency and attention mechanism, 2020.
+
+\bibitem[Wu et~al.(2021)Wu, Fu, Liu, Lim, Hoi, and Sun]{Wu2021}
+Xiongwei Wu, Xin Fu, Ying Liu, Ee-Peng Lim, Steven~C.H. Hoi, and Qianru Sun.
+\newblock A large-scale benchmark for food image segmentation.
+\newblock In \emph{Proceedings of the 29th ACM International Conference on Multimedia}, MM ’21, page 506–515. ACM, October 2021.
+
+\end{thebibliography}

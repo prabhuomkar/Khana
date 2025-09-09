@@ -1,0 +1,81 @@
+category,dish,variety,dietary
+south indian,dosa,neer dosa,veg
+south indian,dosa,set dosa,veg
+south indian,dosa,rava dosa,veg
+south indian,dosa,masala dosa,veg
+south indian,idli,,veg
+south indian,medu vada,,veg
+south indian,idiyappam,,veg
+south indian,paniyaram,,veg
+south indian,uttapam,,veg
+pizza,paneer pizza,,veg
+pizza,margherita pizza,,veg
+pizza,pepperoni pizza,,non-veg
+pizza,chicken pizza,,non-veg
+chaat,sev puri,,veg
+chaat,pani puri,,veg
+chaat,papdi chaat,,veg
+bread,flatbread,chole bhature,veg
+bread,flatbread,aloo paratha,veg
+bread,flatbread,puri bhaji,veg
+bread,flatbread,chapati,veg
+bread,flatbread,amritsari kulcha,veg
+bread,flatbread,garlic naan,veg
+curry,aloo,aloo methi,veg
+curry,aloo,aloo gobi,veg
+curry,aloo,aloo mutter,veg
+curry,paneer,palak paneer,veg
+curry,paneer,paneer masala,veg
+curry,navratan korma,,veg
+curry,bhindi masala,,veg
+curry,anda curry,,non-veg
+curry,chana masala,,veg
+curry,fish curry,,non-veg
+rice,dal khichdi,,veg
+rice,pongal,,veg
+rice,rajma chawal,,veg
+rice,biryani,,veg
+sweet,mysore pak,,veg
+sweet,halwa,moong dal halwa,veg
+sweet,halwa,gajar ka halwa,veg
+sweet,gulab jamun,,veg
+sweet,kheer,,veg
+sweet,rasgulla,,veg
+sweet,laddu,boondi laddu,veg
+sweet,laddu,besan laddu,veg
+sweet,kulfi,,veg
+sweet,balushahi,,veg
+sweet,modak,,veg
+sweet,falooda,,veg
+sweet,gujhia,,veg
+sweet,jalebi,,veg
+sweet,kaju katli,,veg
+sweet,phirni,,veg
+beverage,chaas,,veg
+beverage,solkadhi,,veg
+snacks,vada pav,,veg
+snacks,samosa,,veg
+snacks,pav bhaji,,veg
+snacks,misal pav,,veg
+snacks,grilled sandwich,,veg
+snacks,dabeli,,veg
+snacks,garlic bread,,veg
+snacks,banana chips,,veg
+snacks,khakhra,,veg
+snacks,dhokla,,veg
+snacks,onion pakoda,,veg
+snacks,poha,,veg
+snacks,steamed momo,,"veg,non-veg"
+snacks,chicken wings,,non-veg
+fasting,sabudana khichdi,,veg
+fasting,sabudana vada,,veg
+others,ghevar,,veg
+others,chivda,,veg
+others,chikki,,veg
+others,masala papad,,veg
+others,patrode,,veg
+others,murukku,,veg
+others,thukpa,,veg
+others,thali,,veg
+kebab,hara bhara kabab,,veg
+kebab,seekh kebab,,"veg,non-veg"

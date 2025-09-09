@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" >
+<title>Khana</title>
+<meta name="title" content="Khana" />
+<meta name="description" content="Khana: A Comprehensive Indian Cuisine Dataset" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://khana.omkar.xyz/" />
+<meta property="og:title" content="Khana" />
+<meta property="og:description" content="Khana: A Comprehensive Indian Cuisine Dataset" />
+<meta property="og:image" content="https://khana.omkar.xyz/img/meta.jpg" />
+<meta property="twitter:url" content="https://khana.omkar.xyz/" />
+<meta property="twitter:title" content="Khana" />
+<meta property="twitter:description" content="Khana: A Comprehensive Indian Cuisine Dataset" />
+<meta property="twitter:image" content="https://khana.omkar.xyz/img/meta.jpg" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
+<style>
+  html, body, th, td {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+  html {
+    border-top: 4px solid #F8474A;
+  }
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+  .khana-color {
+    color: #F8474A;
+  }
+  .khana-font {
+    font-family: "Inconsolata", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Inconsolata", monospace;
+  }
+  a {
+    color: #F8474A;
+    text-decoration: none;
+  }
+  .main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 8px 16px;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+  }
+  @media (min-width: 992px) {
+    .main {
+      width: 72%;
+      padding: 32px 64px;
+    }    
+  }
+  @media (min-width: 1200px) {
+    .main {
+      width: 50%;
+      padding: 32px 64px;
+    }    
+  }
+  @media (min-width: 2200px) {
+    .main {
+      width: 40%;
+      padding: 32px 64px;
+    }    
+  }
+  .header {
+    text-align: center;
+  }
+  .u {
+    margin-top: 32px;
+    margin-bottom: 16px;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #E0E0E0;
+  }
+  table {
+    margin-top: 16px;
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+  }
+  @media (min-width: 992px) {
+    table {
+      width: 85%;
+    }    
+  }
+  th, td {
+    border-top: 1px solid #E0E0E0;
+    padding: 8px;
+    text-align: center;
+  }
+  th, tr {
+    font-family: "Inconsolata", monospace;
+  }
+  tbody tr:nth-child(1) {
+    background-color: #F4F4F4;
+  }
+  tbody tr {
+    font-size: smaller;
+  }
+  .date {
+    font-size: x-small;
+    color: white;
+    padding: 4px;
+    margin-top: 8px;
+    border-radius: 4px;
+    display: inline-block;
+    background-color: #777777;
+  }
+  .button {
+    margin-top: 16px;
+    display: inline-block;
+    padding: 8px 24px;
+    background-color: #F8474A;
+    color: white;
+    border: none;
+    font-family: "Inconsolata", monospace;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px #777777;
+    font-size: medium;
+    text-decoration: none;
+  }
+  .button:hover {
+    box-shadow: none;
+  }
+  .img-custom {
+    background-position: center !important;
+    background-size: contain !important;
+    width: 100%;
+    height: 320px;
+    background-repeat: no-repeat !important;
+    margin: 16px auto;
+  }
+  .img-heading {
+    background: url("img/heading.jpg");
+  }
+  .img {
+    margin: 16px auto;
+  }
+</style>
+</head>
+<body>
+  <div class="main">
+    <div class="header">
+      <h2 class="khana-color khana-font">Khana: A Comprehensive Indian Cuisine Dataset</h2>
+    </div>
+    <div class="content">
+      <div class="img-heading img-custom"></div>
+      <h3 class="u">What is Khana?</h3>
+      Khana is a food classification dataset featuring the wide range of dishes 
+      from Indian cuisine. The goal of this dataset is to solve challenges 
+      found in existing datasets: lack of representation of Indian food dishes, 
+      generalization over limited diversity due to Western-influenced classes, 
+      conditions, viewpoints and environments. Khana is meant to be an academic 
+      resource and has significant limitations. For more details about Khana, 
+      please refer to our preprint:
+      <center>
+        <a class="button" target="_blank" 
+        href="https://arxiv.org/abs/2509.06006">
+        Khana Paper</a>
+      </center>
+      <br>
+      Khana contains <b>131,000+</b> images comprising of <b>80</b> food dishes. You can 
+      download the labels from the dataset <a href="files/labels.txt" 
+      download target="_blank">here</a> and the taxonomy created during its 
+      inception <a href="files/taxonomy.csv">here</a>. Khana does not own the copyright of 
+      the images. Khana only compiles an accurate list of web images for each 
+      food dish. It is available for researchers and educators who wish to use 
+      the images for non-commercial research and/or educational purposes only.
+      <a target="_blank" href="img/statistics.jpg">
+        <img class="img" src="img/statistics.jpg" alt="Statistics" width="100%">
+      </a>
+      <a target="_blank" href="img/sunburst.jpg">
+        <img class="img" src="img/sunburst.jpg" alt="Sunburst" width="100%">
+      </a>
+      <h3 class="u">Download</h3>
+      Browse the examples in Khana:
+      <br>
+      <center>
+        <a class="button" target="_blank" href="files/browse.pdf">Browse Khana</a>
+      </center>
+      <br>
+      Download a copy of the dataset in zip format:
+      <br>
+      <center>
+        <a class="button" target="_blank" href="https://drive.google.com/drive/folders/1PWyJdkizw5ABBd8BIAnr_FZq91YZ2Uo0?usp=sharing">Download (6.4 GB)</a>
+      </center>
+      <h3 class="u">Leaderboard</h3>
+      Look out for the best Khana model out here! 
+      <center>
+        <table>
+          <thead>
+            <tr>
+              <th>Rank</th>
+              <th>Model</th>
+              <th>Acc@1</th>
+              <th>Acc@5</th>
+              <th>Params</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td></td>
+              <td>
+                ConvNeXT-S
+                <br>
+                <i style="color: #777777;">Baseline</i>
+              </td>
+              <td>86.72</td>
+              <td>97.58</td>
+              <td>49.49M</td>
+            </tr>
+            <tr>
+              <td>
+                TBD
+                <br>
+                <div class="date">TBD</div>
+              </td>
+              <td>
+                TBD
+              </td>
+              <td>TBD</td>
+              <td>TBD</td>
+              <td>TBD</td>
+            </tr>
+          </tbody>
+        </table>
+        <small>Submit your paper, evaluations or model weights <a href="mailto:prabhuomkar@pm.me">here</a> to appear on this leaderboard.</small>
+      </center>
+      <h3 class="u">Questions?</h3>
+      Ask us questions at our <a target="_blank" href="https://github.com/prabhuomkar/Khana/discussions">github discussion</a> 
+      or at <a href="mailto:prabhuomkar@pm.me">prabhuomkar@pm.me</a>.
+    </div>
+  </div>
+</body>
+</html>
